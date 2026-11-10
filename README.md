@@ -16,6 +16,8 @@ https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection
 
 Darabi, P.K. (2025).
 
-Medical Image Dataset: Brain Tumor Detection.
+Medical Image DataSet: Brain Tumor Detection.
 
 Kaggle Dataset.
+
+https://www.kaggle.com/datasets/pkdarabi/medical-image-dataset-brain-tumor-detection
